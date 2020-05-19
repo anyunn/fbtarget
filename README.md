@@ -1,2 +1,2 @@
 # fbtarget
-Hack FB target termux
+Hack FB target 
